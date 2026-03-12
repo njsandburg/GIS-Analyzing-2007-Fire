@@ -1,6 +1,6 @@
 # GIS-Analyzing-2007-Fire
 
-This project analyzes terrain within the 4S Ranch and Rancho Bernardo Fire wildfire perimeter using a Digital Elevation Model (DEM) and Python. Elevation and slope distributions are computed and visualized to examine how terrain characteristics may influence wildfire behavior.
+This project analyzes terrain within the 4S Ranch and Rancho Bernardo wildfire perimeter from the 2007 Witch Creek Fire through analysis of a Digital Elevation Model (DEM) in Python. Elevation and slope distributions are computed and visualized to examine how terrain characteristics may influence wildfire behavior.
 
 ## Terrain Metrics Computed
 
@@ -34,3 +34,4 @@ The result is then converted from radians to degrees.
 3. Run the python code:
    python python.py
 
+The python code will compute terrain statistics and generate elevation and slope distribution graphs.
