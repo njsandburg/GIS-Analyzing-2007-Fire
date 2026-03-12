@@ -32,6 +32,6 @@ The result is then converted from radians to degrees.
    **pip install rasterio numpy matplotlib**
    
 3. Run the python code: <br>
-   ```**python python.py**``` <br>
+   **```python python.py```** <br>
 
 The python code will compute terrain statistics and generate elevation and slope distribution graphs.
