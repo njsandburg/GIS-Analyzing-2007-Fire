@@ -11,16 +11,16 @@ Mean elevation <br>
 Elevation Distribution histogram
 
 ### Slope statistics
-Mean slope
-Maximum slope
+Mean slope <br>
+Maximum slope <br>
 Slope Distribution histogram
 
-Slope is calculated using the terrain gradient:
+Slope is calculated using the terrain gradient: <br>
 slope = arctan( √(dz/dx² + dz/dy²) )
 
-Where:
-dz/dx = elevation change in x direction
-dz/dy = elevation change in y direction
+Where: <br>
+dz/dx = elevation change in x direction <br>
+dz/dy = elevation change in y direction <br>
 
 The result is then converted from radians to degrees.
 
