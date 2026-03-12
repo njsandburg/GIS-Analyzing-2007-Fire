@@ -25,13 +25,13 @@ dz/dy = elevation change in y direction <br>
 The result is then converted from radians to degrees.
 
 ### How to run this project:
-1. Clone the repository:
+1. Clone the repository: <br>
    https://github.com/njsandburg/GIS-Analyzing-2007-Fire.git
    
-2. Install rasterio:
+2. Install rasterio: <br>
    pip install rasterio numpy matplotlib
    
-3. Run the python code:
-   python python.py
+3. Run the python code: <br>
+   python python.py <br>
 
 The python code will compute terrain statistics and generate elevation and slope distribution graphs.
