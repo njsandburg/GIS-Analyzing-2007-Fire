@@ -17,6 +17,7 @@ Slope Distribution histogram
 
 Slope is calculated using the terrain gradient: <br>
 slope = arctan( $\sqrt((($\frac{dz}{dx}$) )^2 + (dz/dy)^2)$)
+$\sqrt(3)$
 
 Where: <br>
 dz/dx = elevation change in x direction <br>
