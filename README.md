@@ -16,8 +16,9 @@ Maximum slope <br>
 Slope Distribution histogram
 
 Slope is calculated using the terrain gradient: <br>
-slope = arctan( $\sqrt((($\frac{dz}{dx}$) )^2 + (dz/dy)^2)$)
-$\sqrt(3)$
+slope = arctan($\sqrt((dz/dx)^2 + (dz/dy)^2)$) <br>
+$\sqrt(3)$ <br>
+$arctan \sqrt(arctan)$
 
 Where: <br>
 dz/dx = elevation change in x direction <br>
