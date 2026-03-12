@@ -145,9 +145,18 @@ with rasterio.open(dem_path) as dem:
 mean_elev = sum_elev / count
 
 # :.2f formats the output to 2 decimal places
+print("Elevation Statistics:")
 print(f"Min elevation: {min_elev:.2f} m")
 print(f"Max elevation: {max_elev:.2f} m")
 print(f"Mean elevation: {mean_elev:.2f} m")
+
+# Calculate mean and max slope
+mean_slope = np.mean(slopes_degrees)
+max_slope = np.max(slopes_degrees)
+
+print("\nSlope Statistics:")
+print(f"Mean slope: {mean_slope:.2f}°")
+print(f"Max slope: {max_slope:.2f}°")
 
 # Plot histogram of elevations
 # x-axis: elevation values (meters)
