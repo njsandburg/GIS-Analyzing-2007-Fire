@@ -5,9 +5,9 @@ This project analyzes terrain within the 4S Ranch and Rancho Bernardo wildfire p
 ## Terrain Metrics Computed
 
 ### Elevation statistics
-Minimum elevation
-Maximum elevation
-Mean elevation
+Minimum elevation <br>
+Maximum elevation <br>
+Mean elevation <br>
 Elevation Distribution histogram
 
 ### Slope statistics
