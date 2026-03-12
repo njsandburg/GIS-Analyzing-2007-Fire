@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Path for the DEM raster file
-dem_path = r"C:\Users\njsan\Documents\QGIS work\2014-Bernardo-Fire\RasterVectorClippedTest.tif"
+dem_path = r"C:\Users\njsan\Documents\QGIS work\2014-Bernardo-Fire\RasterVectorClippedTestSample.tif"
 
 all_elevations = []
 window_size = 512
